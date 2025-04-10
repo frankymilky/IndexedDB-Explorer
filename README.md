@@ -4,4 +4,4 @@
 **TO DO:**
 - Ability to Download files
 - Ability to Upload files
-- Ability to preview txt, json, etc
+- Ability to preview txt, json, etc.
