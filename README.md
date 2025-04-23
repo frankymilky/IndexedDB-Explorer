@@ -1,4 +1,4 @@
-# IndexedDB Explorer
+# IndexedDB Explorer [WIP]
 **attempt to make a indexeddb file explorer**
 
 **TO DO:**
